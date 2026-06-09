@@ -142,7 +142,7 @@ Motivated and detail-oriented Full Stack Developer seeking challenging internshi
 > A production-grade real-time messaging application with secure authentication and persistent chat history.
 
 **Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT`
+`React.js` `Node.js` `Express.js` `MongoDB` 
 
 **Key Features:**
 - ⚡ Real-time bidirectional messaging
@@ -279,23 +279,6 @@ Motivated and detail-oriented Full Stack Developer seeking challenging internshi
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white" />
-</p>
-
-- 🧪 Deepening knowledge of **TypeScript** and **Next.js** for production-grade React apps
-- ☁️ Exploring **AWS** cloud fundamentals and deployment pipelines
-- 🐳 Learning **Docker** containerization for scalable deployments
-- 📐 Studying **System Design** patterns for large-scale architectures
 
 ---
 
